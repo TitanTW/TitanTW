@@ -5,7 +5,8 @@ Incoming Industrial Engineering & Operations Research student at UC Berkeley's C
 About
 🎓 UC Berkeley, College of Engineering — IEOR (exploring a possible switch to Bioengineering)
 🌱 Grew up in Thailand, spending significant time in rural farming communities — most of my projects come out of problems I saw there
-🔭 Long-term goal: found a startup that makes a physical/tangible product, not just software. Currently exploring engineering, consulting, and PM roles to build toward that.
+🔭 Currently exploring engineering, consulting, and PM roles.
+
 Featured Projects
 
 PteryScreen — Project Lead & Developer Mobile computer-vision app that screens for early-stage pterygium in low-resource rural health centers. Used for 2,000+ screenings with 52 early detections. Methodology co-authored and published at MIWAI 2024.
