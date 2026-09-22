@@ -3,8 +3,11 @@ Hi, I'm Titan
 Incoming Industrial Engineering & Operations Research student at UC Berkeley's College of Engineering. I build hardware and computer-vision tools that solve problems I saw firsthand growing up in rural Thailand.
 
 About
+
 🎓 UC Berkeley, College of Engineering — IEOR (exploring a possible switch to Bioengineering)
+
 🌱 Grew up in Thailand, spending significant time in rural farming communities — most of my projects come out of problems I saw there
+
 🔭 Currently exploring engineering, consulting, and PM roles.
 
 Featured Projects
@@ -19,4 +22,5 @@ Braille Farm — Hardware Lead Modified a hydroponic system with Braille-labeled
 
 Connect
 LinkedIn: https://www.linkedin.com/in/thanabodee-withunchettanan
+
 Email: titantw@berkeley.edu
